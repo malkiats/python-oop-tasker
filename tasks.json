@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "51372980-03ee-417c-8695-1b2b3c48cd25",
+    "title": "Fix login bug",
+    "description": "Investigate 500s in auth service",
+    "assignee": "malkiats",
+    "created_at": "2025-08-10T05:29:51.496706",
+    "due_date": "2025-09-01",
+    "status": "TODO",
+    "tags": [
+      "bug",
+      "backend"
+    ]
+  }
+]
